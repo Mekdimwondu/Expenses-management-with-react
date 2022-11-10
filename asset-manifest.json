@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expenses-management-with-react/static/css/main.f35174c2.css",
+    "main.js": "/Expenses-management-with-react/static/js/main.77b5f842.js",
+    "index.html": "/Expenses-management-with-react/index.html",
+    "main.f35174c2.css.map": "/Expenses-management-with-react/static/css/main.f35174c2.css.map",
+    "main.77b5f842.js.map": "/Expenses-management-with-react/static/js/main.77b5f842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f35174c2.css",
+    "static/js/main.77b5f842.js"
+  ]
+}
